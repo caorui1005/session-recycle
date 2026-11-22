@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Session Recycle Bin",
+    "description": "Delete sessions into a recycle bin: pending-delete with a file manifest, restore or purge now, auto-cleanup after 7 days.",
+    "detail": "docs/DETAIL.md"
+  }
+}

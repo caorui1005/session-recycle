@@ -1,0 +1,3 @@
+- insert:
+    - id: session-recycle
+      name: 'session-recycle'
